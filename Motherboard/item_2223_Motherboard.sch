@@ -17397,7 +17397,7 @@ PC board mounted ribbon cable connectors (IEC 52141), horizontal&lt;p&gt;
 <text x="292.1" y="12.7" size="2.54" layer="97">Sezione logica e ADC
 Condizionamento coppie</text>
 <text x="346.71" y="20.32" size="2.54" layer="97">ISIS Bassa Friulana</text>
-<text x="289.56" y="33.02" size="2.1844" layer="97">Lista Tesp Points:
+<text x="289.56" y="33.02" size="2.1844" layer="97">Lista Test Points:
 TP1 - ingresso Accel_0
 TP2 - Accel_0 con bias
 TP3 - uscita PGA Accel_0/1
